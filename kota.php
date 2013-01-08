@@ -23,6 +23,44 @@ $indonesia = Array(
 										'Stabat',
 										'Tebing Tinggi'
 							
+		)),
+		
+		'Jawa Tengah'		=> Array('kota' => Array(
+										'Banjarnegara',
+										'Banyumas',
+										'Batang',
+										'Blora',
+										'Boyolali',
+										'Brebes',
+										'Cilacap',
+										'Demak',
+										'Grobogan',
+										'Jepara',
+										'Karanganyar',
+										'Kebumen',
+										'Kendal',
+										'Klaten',
+										'Kudus',
+										'Magelang',
+										'Pati',
+										'Pekalongan',
+										'Pemalang',
+										'Purbalingga',
+										'Purworejo',
+										'Rembang',
+										'Semarang',
+										'Sragen',
+										'Sukoharjo',
+										'Tegal',
+										'Temanggung',
+										'Wonogiri',
+										'Wonosobo',
+										'Kota Magelang',
+										'Kota Pekalongan',
+										'Kota Salatiga',
+										'Kota Semarang',
+										'Kota Surakarta',
+										'Kota Tegal'
 		))
 	)
 );
